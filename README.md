@@ -31,6 +31,6 @@ Tecnologías y Herramientas
 
 
 ## Estadísticas de GitHub
-![Stats de HombreMan-man](https://github-readme-stats.vercel.app/api?username=HombreMan-man&show_icons=true&theme=tokyonight&count_private=true)
+![Stats de HombreMan-man](https://github-readme-stats.vercel.app/api?username=Revali-wind&show_icons=true&theme=tokyonight&count_private=true)
 
 </div>
