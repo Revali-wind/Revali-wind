@@ -1,7 +1,13 @@
 <div align="center">
- Anibal | Software Engineering | Data Science & Automation
+ # Aníbal Muñoz
+### Analista de Datos · Python · Power BI · Santiago, Chile
 
-<img src="the-legend-of-zelda-breath-of-the-wild-the-legend-of-zelda-hyrule-video-games-wallpaper-preview.jpg" width="100%" alt="Banner Hyrule">
+Estudiante de Ingeniería en Informática con especialización en Ciencia de Datos (Duoc UC).  
+Experiencia práctica en ETL, dashboards, automatización de procesos y reporting a stakeholders.  
+Buscando primer rol junior en Data Analytics o automatización.
+
+
+<img src="the-legend-of-zelda-breath-of-the-wild-the-legend-of-zelda-hyrule-video-games-wallpaper-preview.jpg" width="80%" alt="Banner Hyrule">
 Tecnologías y Herramientas
 
 
