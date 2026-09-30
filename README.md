@@ -1,6 +1,6 @@
 <div align="center">
- # Aníbal Muñoz
-### Analista de Datos · Python · Power BI · Santiago, Chile
+ #Aníbal Muñoz
+###Analista de Datos · Python · Power BI · Santiago, Chile
 
 Estudiante de Ingeniería en Informática con especialización en Ciencia de Datos (Duoc UC).  
 Experiencia práctica en ETL, dashboards, automatización de procesos y reporting a stakeholders.  
